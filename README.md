@@ -1,7 +1,4 @@
-# DataStructure
-
-Do it! 자료구조와 함께 배우는 알고리즘 입문(Python)
---
+# Do it! 자료구조와 함께 배우는 알고리즘 입문 with Python
 
 ### 정렬
 정렬 알고리즘: https://psleon.tistory.com/21 <br>
