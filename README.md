@@ -16,6 +16,7 @@
 
 
 ### 재귀
+- 팩토리얼: https://github.com/PSLeon24/DataStructure-Algorithms/blob/main/Implementation%20of%20factorial.ipynb <br>
 - 하노이의 탑: https://psleon.tistory.com/57 <br>
 - 8퀸: https://psleon.tistory.com/62 <br>
 
@@ -24,3 +25,4 @@
 - 문자열 검색: https://psleon.tistory.com/52 <br>
 - 브루트 포스법: https://psleon.tistory.com/53 <br>
 - KMP법: https://psleon.tistory.com/59 <br>
+- 보이어·무어법: https://github.com/PSLeon24/DataStructure-Algorithms/blob/main/Boyer-Moor%20Method.ipynb <br>
