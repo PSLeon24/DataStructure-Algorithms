@@ -1,5 +1,10 @@
 # Do it! 자료구조와 함께 배우는 알고리즘 입문 with Python
 
+### 스택 / 큐
+- 스택: https://github.com/PSLeon24/DataStructure-Algorithms/blob/main/%5BData%20Structure%5D%20Stack.ipynb <br>
+- 큐: https://github.com/PSLeon24/DataStructure-Algorithms/blob/main/%5BData%20Structure%5D%20Queue.ipynb <br>
+
+
 ### 정렬
 - 정렬 알고리즘: https://psleon.tistory.com/21 <br>
 - 단순 선택 정렬: https://psleon.tistory.com/30 <br>
